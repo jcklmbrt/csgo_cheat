@@ -1,0 +1,12 @@
+
+#ifndef CSGO_CHEAT_SOURCE_SDK_PUBLIC_BASEHANDLE_HPP_
+#define CSGO_CHEAT_SOURCE_SDK_PUBLIC_BASEHANDLE_HPP_
+
+#include <cstdint>
+
+struct CBaseHandle
+{
+	uint32_t m_index;
+};
+
+#endif //CSGO_CHEAT_SOURCE_SDK_PUBLIC_BASEHANDLE_HPP_
